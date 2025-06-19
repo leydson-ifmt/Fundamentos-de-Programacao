@@ -1,4 +1,4 @@
-# Fundamentos-de-Programacao
+# Fundamentos de Programação
 
 A este componente está organizado em 6 (seis) unidades:
 
