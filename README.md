@@ -9,4 +9,4 @@ A este componente está organizado em 6 (seis) unidades:
 * Unidade V: Revisão de Conteúdo
 * Unidade VI: Estruturas de dados básicas (Vetores e Matrizes)
 
-__Todo agradecimento professor Alberto Sales e Silva da disciplina.__
+__Todo agradecimento ao professor Alberto Sales e Silva da disciplina.__
